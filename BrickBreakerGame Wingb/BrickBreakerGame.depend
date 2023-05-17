@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1679239221 source:c:\users\durasel\desktop\brickgame\brickbreakergame\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	<string.h>
+	<dos.h>
+	<conio.h>
+	<unistd.h>
+	<string>
+
